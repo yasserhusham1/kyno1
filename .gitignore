@@ -1,0 +1,11 @@
+config/local.config.js
+dist/
+.env
+.env.local
+.env.production
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+tools/proof-output.txt
+.env.kyno
